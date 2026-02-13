@@ -33,14 +33,6 @@ Mindset   : Consistency beats perfection
 ⚙️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,js,html,css,python,react,nextjs,nodejs,express,mongodb,mysql,ts,tailwind,git,github,figma,vercel,postman" /> </p>
 
-🎧 Currently Playing
-<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31frt5pfymftrzsjlhp4bmg7g6ca&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" /> </p>
-
-📊 GitHub Analytics
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=soniya-kolvekar&show_icons=true&theme=github_dark&hide_border=true"/> <img height="150" src="https://streak-stats.demolab.com?user=soniya-kolvekar&theme=github-dark&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=soniya-kolvekar&theme=github-dark&hide_border=true"/> </p>
-
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=soniya-kolvekar&theme=darkhub&no-frame=true&row=1&column=6" /> </p>
 
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/soniya-kolvekar/soniya-kolvekar/output/snake.svg" alt="Snake animation"/> </p>
