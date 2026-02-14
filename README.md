@@ -35,7 +35,7 @@ Mindset   : Consistency over perfection
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,js,html,css,python,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,figma,vercel,postman" /> </p>
 
 ## 📊 GitHub Activity
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=soniya-kolvekar&show_icons=true&theme=github_dark&hide_border=true"/> <img height="150" src="https://streak-stats.demolab.com?user=soniya-kolvekar&theme=github-dark&hide_border=true"/> </p>
+<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=soniya-kolvekar&show_icons=true&theme=github_dark&hide_border=true"/>  </p>
 
 ## 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/soniya-kolvekar/soniya-kolvekar/output/snake.svg" alt="Snake animation"/> </p>
@@ -48,4 +48,4 @@ Learning   : Advanced JavaScript & Backend Development
 Building   : Practical real-world applications
 Goal 2026  : Become a confident Full-Stack Developer
 
-<p align="center"> <b>Thanks for visiting my profile.</b><br/> If you like my work, consider giving a ⭐ to a repository. </p> ```
+<p align="center"> <b>Thanks for visiting my profile.</b><br/> If you like my work, consider giving a ⭐ to a repository. </p> 
