@@ -40,12 +40,6 @@ Mindset   : Consistency over perfection
 ## 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/soniya-kolvekar/soniya-kolvekar/output/snake.svg" alt="Snake animation"/> </p>
 
-## 🎧 Coding Soundtrack
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31frt5pfymftrzsjlhp4bmg7g6ca&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false" />
-</p>
-
 ## 🧠 Dev Thought of the Day
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
 
