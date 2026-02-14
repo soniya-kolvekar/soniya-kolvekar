@@ -27,19 +27,20 @@ Role      : Student • Developer
 Focus     : Web Development | AI | Real-world Projects
 Mindset   : Consistency beats perfection
 ```
-🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center"> <a href="https://www.instagram.com/soniya_kolvekar"> <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/soniya-kolvekar-a67927330/"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:soniyakolvekar7@gmail.com"> <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,c,cs,js,html,css,python,react,nextjs,nodejs,express,mongodb,mysql,ts,tailwind,git,github,figma,vercel,postman" /> </p>
 
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/soniya-kolvekar/soniya-kolvekar/output/snake.svg" alt="Snake animation"/> </p>
 
-🧠 Dev Thought of the Day
+## 🧠 Dev Thought of the Day
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
 
+## 🛰️ Current Status
 ```txt
 Learning   : Advanced JavaScript & Backend Development
 Building   : Practical real-world applications
