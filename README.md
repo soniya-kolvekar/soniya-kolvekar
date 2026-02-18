@@ -48,8 +48,9 @@ Mindset   : Consistency over perfection
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
 
 ## 🛰️ Current Status
+```txt
 Learning   : Advanced JavaScript & Backend Development
 Building   : Practical real-world applications
 Goal 2026  : Become a confident Full-Stack Developer
-
+```
 <p align="center"> <b>Thanks for visiting my profile.</b><br/> If you like my work, consider giving a ⭐ to a repository. </p> 
